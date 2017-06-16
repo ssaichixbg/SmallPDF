@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					F4C7CE9F1EF3D7F50042C752 = {
 						CreatedOnToolsVersion = 8.3.1;
-						DevelopmentTeam = DH3BWSZE6W;
+						DevelopmentTeam = E5YW6LR3S4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DH3BWSZE6W;
+				DEVELOPMENT_TEAM = E5YW6LR3S4;
 				INFOPLIST_FILE = SmallPDF/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yangz.SmallPDF;
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = DH3BWSZE6W;
+				DEVELOPMENT_TEAM = E5YW6LR3S4;
 				INFOPLIST_FILE = SmallPDF/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yangz.SmallPDF;
@@ -304,6 +304,7 @@
 				F4C7CEB41EF3D7F50042C752 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
